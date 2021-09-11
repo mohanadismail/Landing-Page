@@ -8,7 +8,7 @@
 
 a) Dynamically-built navigation bar
 
-b) Active state added to ccurrently viewed sections
+b) Active state added to currently viewed sections
 
 c) Active state added to corresponding navigation element
 
